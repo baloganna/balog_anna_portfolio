@@ -1,0 +1,145 @@
+teljesteljes{
+align:middle;
+}
+
+.teljesoldal{
+  max-width:1200;
+  padding: 80px;
+  padding-top:200px;
+  background-image: url("wallpaper.jpg");
+  background-size: auto;
+  margin: auto;
+}
+
+.baloldal{
+ width:200;
+ padding:10px;
+ display: inline-block;
+ margin-right:100px;
+}
+
+.kep{
+  width:20%;
+}
+
+.kepem{
+  align:center;
+  height:259,4;
+  width:200;
+}
+
+.tobbioldal{
+ line-height: 1.6;
+ font-size: 20;
+ border: 5px solid;
+ border-color: white;
+ background-color: lightblue;
+ padding: 20px;
+}
+
+.jobboldal{
+  max-margin: -100px;
+  min-height:200px;
+  display: inline-block;
+  position: relative;
+  min-width: 550px;
+  width:60%;
+  padding:5px;
+}
+
+.cimszoveg{
+  text-align: center;
+  height:259,4;
+  font-size:32;
+  padding: 5px;
+  background-color: lightblue;
+  margin: 5px;
+  border: 5px solid;
+  border-color: white  
+}
+
+.bemutatkozas{
+  line-height: 1.2;
+  font-size: 18;
+  margin: 5px;
+  padding-left: 15px;
+  text-align: left;
+  background-color: lightblue;
+  border: 5px solid;
+  border-color: white;
+  min-height: 155px;
+}
+
+.eredetitervek{
+  min-height: 120px;
+  line-height: 1.2;
+  font-size: 23;
+  margin: 5px;
+  padding-left: 15px;
+  text-align: center;
+  background-color: lightblue;
+  border: 5px solid;
+  border-color: white;
+}
+
+.eredetitervek2{
+  min-height: 120px;
+  line-height: 1.2;
+  font-size: 15;
+  margin: 5px;
+  padding-left: 15px;
+  text-align: center;
+  background-color: lightblue;
+  border: 5px solid;
+  border-color: white;
+}
+
+.telmailcim{
+  line-height: 1.2;
+  font-size: 18;
+  margin: 5px;
+  padding-left: 15px;
+  text-align: left;
+  background-color: lightblue;
+  border: 5px solid;
+  border-color: white;
+  min-height: 155px;
+}
+.iskolanyelv{
+  line-height: 1.2;
+  font-size: 18;
+  margin: 5px;
+  padding-left: 15px;
+  text-align: left;
+  background-color: lightblue;
+  border: 5px solid;
+  border-color: white;
+  min-height: 155px;
+}
+.jartassagok{
+  line-height: 1.2;
+  font-size: 18;
+  margin: 5px;
+  padding-left: 15px;
+  text-align: left;
+  background-color: lightblue;
+  border: 5px solid;
+  border-color: white;
+  min-height: 155px;
+}
+
+.eredetidesigndiv{
+	display: inline-block;
+	float: right;
+}
+
+.eredetidesign{
+  align:right;
+  height:133;
+  width:200;
+}
+
+.leiras{
+    text-align: left;
+	display:inline-block;
+}
